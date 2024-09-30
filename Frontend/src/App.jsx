@@ -5,7 +5,7 @@ import { Signup } from './pages/signup'
 import { Signin } from './pages/signin'
 import { Dashboard } from './pages/dashboard'
 import { Profile } from './pages/profile' 
-import { Deposit } from './pages/Deposit'
+import { Deposit } from './pages/deposit'
 
 function App() {
   return <>
